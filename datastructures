@@ -1,0 +1,11 @@
+#1
+#radius of a circle
+radius=float(input("Input the radius of the circle:"))
+print("The area of the cirsle with radius ",radius," is: ",3.14*radius*radius)
+
+#2
+#python extension
+filename = input("Input the Filename: ")
+filenamesplit = filename.split(".")
+print ("The extension of the file is : " + repr(filenamesplit[-1]))
+
