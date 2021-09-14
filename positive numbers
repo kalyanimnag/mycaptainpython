@@ -7,3 +7,18 @@ print(list1)
 for i in range(len(list1)):
     if list1[i] > 0:
         print(list1[i],end=" ")
+#first list
+Enter number of elements :5
+12
+-7
+5
+64
+-14
+[12,5,64]
+#second list
+Enter number of elements :4
+12
+14
+-95
+3
+[12,14,3]
